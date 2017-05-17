@@ -2,7 +2,11 @@
 public class Runner {
 
 	public static void main(String[] args) {
-		System.out.println();
+		// Our initial template
+		
+		Runner myRunner = new Runner();
+		Converter myConverter = new Converter();
+				
 
 	}
 
